@@ -11,7 +11,7 @@ You've heard of the technology and can probably be able to explain it broadly to
 ## Enough for a sales call / technical meeting
 A sales person or management lead at your company needs a security expert with them to help out with a meeting which is starting in a few minutes. You know enough about the technology to be able to understand what is being said at the meeting and are able to ask some intelligent questions without coming across as a complete noob, but you wouldn't know where to begin performing a security test without a decent amount of studying.
 
-## Could conduct a basic security review
+## Could do the basics
 An emergency has occurred and you have only three days to perform a security assurance exercise against the technology, starting tomorrow. You may have performed a test or two against this technology a long time ago, or you may have shadowed a colleague recently but any testing you conduct is going to be 80% google and you're unlikely to find anything apart from the low hanging fruit. Still, you know enough to cover the basics.
 
 ## Reasonably good

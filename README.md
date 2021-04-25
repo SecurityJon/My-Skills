@@ -1,6 +1,8 @@
 # My-Skills
 My skills mapped against a rating matrix
 
+![MySkills](My%20Skills%20Matrix.png?raw=true "Title")
+
 
 
 # Rating System

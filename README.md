@@ -1,5 +1,7 @@
 # My-Skills
-My skills mapped against a rating matrix
+A list of my skills, mapped against a rating system. This permits easy tracking of areas in which I need to improve and areas that I'm comfortable in. 
+
+Ratings are driven by me, so may be a little on the lower side (I'm my own worst critic).
 
 ![MySkills](My%20Skills%20Matrix.png?raw=true "Title")
 
